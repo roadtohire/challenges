@@ -1,0 +1,6 @@
+Git
+1. Write the command that tells you whether there have been any changes done to your repository that you have not yet pulled.
+2. Suppose you are currently in the master branch of your repository. Create a new branch called calculator and switch into it.
+3. Write the command needed to list all the branches in your current branch.
+4. Suppose there is a branch named clownNose in your current branch. Write the command necessary to merge clownNose with your current branch.
+5. Write the command to create a new repository named myRepo
